@@ -1,0 +1,7 @@
+﻿order_id,customer_id,order_date,discount_applied ,payment_type 
+101,1,2022-02-01,TRUE,upi
+102,1,2022-03-01,FALSE,card
+103,2,2022-02-10,TRUE,upi
+104,3,2022-02-15,FALSE,card
+105,4,2022-03-20,TRUE,card
+106,5,2022-03-25,FALSE,card
